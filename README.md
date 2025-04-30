@@ -33,7 +33,10 @@ Desenvolvedor web e mobile apaixonado por transformar ideias em aplicações rea
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DiegoMurari&show_icons=true&theme=radical" alt="DiegoMurari GitHub Stats" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=DiegoMurari&show_icons=true&theme=radical&cache_seconds=300"
+    alt="DiegoMurari GitHub Stats"
+  />
 </p>
 
 ---
