@@ -25,7 +25,7 @@ Desenvolvedor web e mobile apaixonado por transformar ideias em aplicações rea
 | Projeto | Descrição |
 |--------|-----------|
 | 🔗 [dxf-cevasa](https://github.com/DiegoMurari/dxf-cevasa) | Conversor de arquivos DXF para otimizar o processo de corte industrial em usinas. |
-| 🔗 [jokenPoApp](https://github.com/DiegoMurari/jokenPo) | Jogo de pedra, papel e tesoura feito em Flutter. Simples, divertido e responsivo. |
+| 🔗 [jokenPoApp](https://github.com/DiegoMurari/jokenPoApp) | Jogo de pedra, papel e tesoura desenvolvido em Flutter. Simples, divertido e responsivo. |
 | 🔗 [catalogo-filmes-flutter](https://github.com/DiegoMurari/catalogo-filmes-flutter) | Catálogo de filmes com Flutter, consumindo API externa para exibir dados dinâmicos. |
 
 ---
@@ -33,14 +33,15 @@ Desenvolvedor web e mobile apaixonado por transformar ideias em aplicações rea
 ## 📈 GitHub Stats
 
 ![DiegoMurari GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoMurari&show_icons=true&theme=radical)
+<!-- Você pode remover o gráfico abaixo caso não reflita as linguagens que você quer destacar -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoMurari&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegomurari)
-📧 Diego_murari@hotmail.com
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegomurari)  
+📧 diego_murari@hotmail.com
 
 ---
 
