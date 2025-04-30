@@ -41,7 +41,7 @@ Tecnologias: **Python**, **Tkinter**, **ezdxf**, **Pillow**. |
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegomurari)
-📧 diegomurari@gmail.com
+📧 Diego_murari@hotmail.com
 
 ---
 
