@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Diego de Oliveira Murari Guimarães
 
-Desenvolvedor web e mobile apaixonado por transformar ideias em aplicações reais e funcionais. Atualmente estou trabalhando no meu primeiro projeto profissional: [Olha a Foto](https://github.com/DiegoMurari/olha-a-foto) 📸
+Desenvolvedor web e mobile apaixonado por transformar ideias em aplicações reais e funcionais.
 
 ---
 
