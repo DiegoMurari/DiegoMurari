@@ -32,8 +32,6 @@ Desenvolvedor web e mobile apaixonado por transformar ideias em aplicações rea
 
 ## 📈 GitHub Stats
 
-![DiegoMurari GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoMurari&show_icons=true&theme=radical)
-<!-- Você pode remover o gráfico abaixo caso não reflita as linguagens que você quer destacar -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoMurari&layout=compact&theme=radical)
 
 ---
