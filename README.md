@@ -17,6 +17,11 @@ Desenvolvedor web e mobile apaixonado por transformar ideias em aplicações rea
 ![Tkinter](https://img.shields.io/badge/-Tkinter-FF6F00?logo=python&logoColor=white)
 ![ezdxf](https://img.shields.io/badge/-ezdxf-FFD43B?logo=python&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white)
+![React Router](https://img.shields.io/badge/-React_Router-CA4245?logo=reactrouter&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white)
 
 ---
 
