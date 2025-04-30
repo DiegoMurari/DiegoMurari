@@ -32,6 +32,7 @@ Desenvolvedor web e mobile apaixonado por transformar ideias em aplicações rea
 | 🔗 [dxf-cevasa](https://github.com/DiegoMurari/dxf-cevasa) | Conversor de arquivos DXF para otimizar o processo de corte industrial em usinas. |
 | 🔗 [jokenPoApp](https://github.com/DiegoMurari/jokenPoApp) | Jogo de pedra, papel e tesoura desenvolvido em Flutter. Simples, divertido e responsivo. |
 | 🔗 [catalogo-filmes-flutter](https://github.com/DiegoMurari/catalogo-filmes-flutter) | Catálogo de filmes com Flutter, consumindo API externa para exibir dados dinâmicos. |
+| 🔗 [marta-bronze-site](https://github.com/DiegoMurari/marta-bronze) | Site profissional de bronzeamento para cliente Marta Bronze, com frontend em React, Tailwind CSS e painel admin integrado ao Supabase. |
 
 ---
 
