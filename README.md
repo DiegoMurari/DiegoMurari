@@ -1,7 +1,7 @@
 <h1 align="center"> Diego de Oliveira Murari Guimarães </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75590&center=true&vCenter=true&width=435&lines=Desenvolvedor+Web+%2F+Mobile+%2F+Desktop;Futuro+Engenheiro+de+Software;Apaixonado+por+resolver+problemas;Sempre+aprendendo+e+evoluindo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75590&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Futuro+Engenheiro+de+Software;Apaixonado+por+tecnologia+e+desafios" alt="Typing SVG" />
 </p>
 
 <p align="center">
