@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Diego de Oliveira Murari Guimarães
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ancizar+Sans&pause=1000&color=F77189&width=435&lines=Diego+Murari)](https://git.io/typing-svg)
 
 Desenvolvedor web e mobile focado em construir soluções funcionais e impactantes, combinando backend, frontend e integração de APIs. Sou apaixonado por transformar ideias em projetos reais e busco sempre aprender e evoluir com cada desafio.
 
