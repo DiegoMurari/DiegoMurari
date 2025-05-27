@@ -29,7 +29,7 @@ Desenvolvedor web e mobile apaixonado por transformar ideias em aplicações rea
 
 | Projeto | Descrição |
 |--------|-----------|
-| 🔗 [DXF-web](https://github.com/DiegoMurari/dxf-web) | Conversor de arquivos DXF para otimizar o processo de corte industrial em usinas. |
+| 🔗 [DXF-WEB](https://github.com/DiegoMurari/dxf-web) | Conversor de arquivos DXF para otimizar o processo de corte industrial em usinas. |
 | 🔗 [DXF-CEVASA](https://github.com/DiegoMurari/dxf-cevasa) | Conversor de arquivos DXF para otimizar o processo de corte industrial em usinas. |
 | 🔗 [JokenPO](https://github.com/DiegoMurari/JokenPO) | Jogo de pedra, papel e tesoura desenvolvido em Flutter. Simples, divertido e responsivo. |
 | 🔗 [Catalogo-Filmes-Flutter](https://github.com/DiegoMurari/catalogo-filmes-flutter) | Catálogo de filmes com Flutter, consumindo API externa para exibir dados dinâmicos. |
