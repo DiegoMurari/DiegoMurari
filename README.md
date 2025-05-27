@@ -21,52 +21,14 @@
 
 ---
 
-### 🌟 Sobre Mim
-
-- 💻 Desenvolvedor Web, Mobile e Desktop  
-- 🚀 Futuro Engenheiro de Software  
-- 🎯 Foco em transformar ideias em projetos reais e impactantes  
-- 🌱 Sempre aprendendo novas tecnologias e resolvendo desafios complexos  
-
----
-
-### 📦 Meus Principais Projetos Open Source
-
-<table>
-  <tr>
-    <td>
-      <b><a href="https://github.com/DiegoMurari/dxf-web">DXF-WEB</a></b><br>
-      Sistema web para upload, visualização e geração de layouts DXF para o setor industrial.
-    </td>
-    <td>
-      <b><a href="https://github.com/DiegoMurari/dxf-cevasa">DXF-CEVASA</a></b><br>
-      Aplicativo desktop robusto para processar arquivos DXF, gerar legendas gráficas e PDFs.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b><a href="https://github.com/DiegoMurari/marta-bronze">Marta Bronze Site</a></b><br>
-      Site profissional em React com painel Supabase para gerenciar serviços e imagens.
-    </td>
-    <td>
-      <b><a href="https://github.com/DiegoMurari/Catalogo-Filmes-Flutter">Catálogo Filmes Flutter</a></b><br>
-      Aplicativo mobile Flutter que consome APIs para exibir filmes dinamicamente.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b><a href="https://github.com/DiegoMurari/Pokedex">Pokedex Flutter</a></b><br>
-      App Flutter conectado a API pública para listar e detalhar Pokémon.
-    </td>
-    <td>
-      <b><a href="https://github.com/DiegoMurari/JokenPO">JokenPO</a></b><br>
-      Jogo simples de pedra, papel e tesoura com interface responsiva.
-    </td>
-  </tr>
-</table>
-
----
+### 🚀 Tecnologias que uso
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DiegoMurari&show_icons=true&theme=radical" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" />
 </p>
