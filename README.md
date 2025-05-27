@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Diego de Oliveira Murari Guimarães
 
-Desenvolvedor web e mobile apaixonado por transformar ideias em aplicações reais e funcionais.
+Desenvolvedor web e mobile focado em construir soluções funcionais e impactantes, combinando backend, frontend e integração de APIs. Sou apaixonado por transformar ideias em projetos reais e busco sempre aprender e evoluir com cada desafio.
 
 ---
 
@@ -29,11 +29,17 @@ Desenvolvedor web e mobile apaixonado por transformar ideias em aplicações rea
 
 | Projeto | Descrição |
 |--------|-----------|
-| 🔗 [DXF-WEB](https://github.com/DiegoMurari/dxf-web) | Conversor de arquivos DXF para otimizar o processo de corte industrial em usinas. |
-| 🔗 [DXF-CEVASA](https://github.com/DiegoMurari/dxf-cevasa) | Conversor de arquivos DXF para otimizar o processo de corte industrial em usinas. |
-| 🔗 [JokenPO](https://github.com/DiegoMurari/JokenPO) | Jogo de pedra, papel e tesoura desenvolvido em Flutter. Simples, divertido e responsivo. |
-| 🔗 [Catalogo-Filmes-Flutter](https://github.com/DiegoMurari/catalogo-filmes-flutter) | Catálogo de filmes com Flutter, consumindo API externa para exibir dados dinâmicos. |
-| 🔗 [Marta-Bronze-Site](https://github.com/DiegoMurari/marta-bronze) | Site profissional de bronzeamento para cliente Marta Bronze, com frontend em React, Tailwind CSS e painel admin integrado ao Supabase. |
+| ⭐️ 🔗 [DXF-WEB](https://github.com/DiegoMurari/dxf-web) | Sistema web interativo para visualização, seleção de camadas e geração de layouts a partir de arquivos DXF, com exportação de relatórios e PDFs para otimizar o processo de corte industrial em usinas. |
+| ⭐️ 🔗 [DXF-CEVASA](https://github.com/DiegoMurari/dxf-cevasa) | Aplicativo desktop robusto em PySide6 para processamento avançado de arquivos DXF, gerando legendas gráficas, tabelas e PDFs para uso em operações industriais. |
+| 🔗 [JokenPO](https://github.com/DiegoMurari/JokenPO) | Jogo de pedra, papel e tesoura desenvolvido em Flutter, simples, divertido e responsivo. |
+| 🔗 [Catalogo-Filmes-Flutter](https://github.com/DiegoMurari/catalogo-filmes-flutter) | Catálogo de filmes em Flutter, consumindo API externa para exibir dados dinâmicos com navegação fluida. |
+| 🔗 [Marta-Bronze-Site](https://github.com/DiegoMurari/marta-bronze) | Site profissional para a marca Marta Bronze, com frontend em React, Tailwind CSS e painel administrativo integrado ao Supabase. |
+
+---
+
+## 🎯 Em busca de
+
+Oportunidades como **desenvolvedor júnior** em projetos web ou mobile, para aplicar minhas habilidades, colaborar em equipe e crescer profissionalmente.
 
 ---
 
