@@ -32,3 +32,45 @@
   <img src="https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" />
 </p>
+
+---
+
+### 🌟 Meus Principais Projetos
+
+<table>
+  <tr>
+    <td>
+      <b><a href="https://github.com/DiegoMurari/dxf-web">DXF-WEB</a></b><br>
+      🛠 Sistema web completo para upload, visualização e geração de layouts DXF.<br>
+      <img src="https://img.shields.io/badge/React-blue?logo=react&style=flat" />
+      <img src="https://img.shields.io/badge/FastAPI-teal?logo=fastapi&style=flat" />
+      <img src="https://img.shields.io/badge/Supabase-green?logo=supabase&style=flat" />
+    </td>
+    <td>
+      <b><a href="https://github.com/DiegoMurari/dxf-cevasa">DXF-CEVASA</a></b><br>
+      🖥 Aplicativo desktop robusto para processar arquivos DXF, gerar PDFs e legendas.<br>
+      <img src="https://img.shields.io/badge/Python-blue?logo=python&style=flat" />
+      <img src="https://img.shields.io/badge/PySide6-purple?logo=qt&style=flat" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b><a href="https://github.com/DiegoMurari/marta-bronze">Marta Bronze Site</a></b><br>
+      💻 Site profissional React + Supabase para gerenciar serviços e imagens.<br>
+      <img src="https://img.shields.io/badge/React-blue?logo=react&style=flat" />
+      <img src="https://img.shields.io/badge/Supabase-green?logo=supabase&style=flat" />
+    </td>
+    <td>
+      <b><a href="https://github.com/DiegoMurari/Catalogo-Filmes-Flutter">Catálogo Filmes Flutter</a></b><br>
+      🎬 Aplicativo Flutter que consome APIs externas para exibir filmes dinamicamente.<br>
+      <img src="https://img.shields.io/badge/Flutter-blue?logo=flutter&style=flat" />
+      <img src="https://img.shields.io/badge/API-yellow?style=flat" />
+    </td>
+  </tr>
+</table>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DiegoMurari&show_icons=true&theme=radical" />
+</p>
