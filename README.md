@@ -79,8 +79,6 @@
 
 ---
 
----
-
 ### 🛠️ Minhas Ferramentas Favoritas
 
 #### 👨‍💻 Linguagens e Marcação
